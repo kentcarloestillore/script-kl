@@ -1,3 +1,3 @@
 @echo off
-cd /d "%~dp0"
+cd /d "C:\log"
 start "" "KeyListener.exe"
